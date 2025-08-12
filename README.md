@@ -21,9 +21,7 @@ The repository includes network diagrams, device configurations and reports for 
 ### Repository Structure
 For simpler understanding, the repository structure is given below.
 
-  ├── 📁 configs  
-  │   ├──  
-  │   ├──   
+  ├── 📁 configs    
   │   └──  
   │ 
   ├── 📁 diagrams  
@@ -32,16 +30,14 @@ For simpler understanding, the repository structure is given below.
   │   └──   
   │
   ├── 📁 documentation  
-  │   ├── step-by-step-report.md -----> Main detailed documentation  
-  │   └── summary.pdf -----------------> Final polished report  
+  │   └── step-by-step-report.md -----> Main detailed documentation  
   │   
   │
-  ├── 📁 screenshots  
-  │   ├──   
-  │   ├──   
-  │   └──   
+  ├── 📁 screenshots    
+  │   └── README.md ------------------> Simulation Output Screenshots
   │  
   └── README.md ----------------------> Project overview, tools used, summary
 
 #### Author
 > dedhfoot
+| Cybersecurity & Networking Enthusiast
