@@ -6,7 +6,7 @@ This project documents the process of building a home network. It involves docum
 The repository includes network diagrams, device configurations and reports for reference.
 
 ### Objectives
-- Design a modern network topology sutiable for a home setup
+- Design a network topology sutiable for a home setup
 - Identify and utilize ethernet ports for device connectivity
 - Configure networking devices
 - Display and verify IP addresses for connected devies
