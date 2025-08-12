@@ -3,7 +3,7 @@ Step-by-step setup, configuration, and testing of a home network using Cisco Pac
 
 ### Overview
 This project documents the process of building a home network. It involves documentation of the design, configuration and testing of a simulated network using Cisco Packet Tracer.
-The repository includes network diagrams, device configurations and reports for reference.
+The repository includes network simulation outputs, packet tracer file, device configurations and reports for reference.
 
 ### Objectives
 - Design a network topology sutiable for a home setup
