@@ -21,20 +21,14 @@ The repository includes network diagrams, device configurations and reports for 
 ### Repository Structure
 For simpler understanding, the repository structure is given below.
 
-  ├── 📁 configs    
-  │   └──  
-  │ 
-  ├── 📁 diagrams  
-  │   ├──  
-  │   ├──   
-  │   └──   
+  ├── my-network-file.pkt ------------> Project File     
   │
   ├── 📁 documentation  
   │   └── step-by-step-report.md -----> Main detailed documentation  
   │   
   │
   ├── 📁 screenshots    
-  │   └── README.md ------------------> Simulation Output Screenshots
+  │   └── Output.md ------------------> Simulation Output Screenshots
   │  
   └── README.md ----------------------> Project overview, tools used, summary
 
