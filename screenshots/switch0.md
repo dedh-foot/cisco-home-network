@@ -6,4 +6,5 @@
 
 ##### Switch0 Device Configuration Window
 
-<img width="919" height="776" alt="image" src="https://github.com/user-attachments/assets/c1211977-3cc3-46d9-8107-3edc33f90812" />
+<img width="779" height="729" alt="image" src="https://github.com/user-attachments/assets/63779f6c-db9b-4597-8c53-7491b251ed9c" />
+
