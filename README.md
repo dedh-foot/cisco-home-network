@@ -21,14 +21,13 @@ The repository includes network simulation outputs, packet tracer file, device c
 ### Repository Structure
 For simpler understanding, the repository structure is given below.
 
-  ├── my-network-file.pkt ------------> Project File     
-  │
-  ├── 📁 documentation  
-  │   └── step-by-step-report.md -----> Main detailed documentation  
-  │   
-  │
-  ├── 📁 screenshots    
-  │   └── Output.md ------------------> Simulation Output Screenshots
+  ├── my-network-file.pkt ------------> Project File       
+  │  
+  ├── 📁 documentation    
+  │   └── step-by-step-report.md -----> Main detailed documentation    
+  │     
+  ├── 📁 screenshots   
+  │   └── Output.md ------------------> Simulation Output Screenshots   
   │  
   └── README.md ----------------------> Project overview, tools used, summary
 
